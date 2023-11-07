@@ -9,7 +9,7 @@ network capabilities and a good web browser.
 
 Start by installing the program.
 
-```bash`
+```bash
 git clone git@github.com:avieth/diplomacy-server.git
 cd diplomacy-server
 cabal install
